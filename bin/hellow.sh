@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello world!!!
+go run gocourse "Hello world!!!"
